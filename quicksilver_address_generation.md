@@ -14,7 +14,7 @@ Once you've isntalled the extension, pin it on Chrome for easy access. Connect y
 
 - Enter an account name and a passphrase to unlock your wallet. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic.
 
-<img source="./screenshots/account2.png" width=100/>
+![account2]<img source="./screenshots/account2.png" width=100/>
 
 > **Warning:** Make sure to securely back up your seed phrase. Whoever has your seed phrase has the control of your funds. If you loose your seed phrase, you loose access to the funds. There is no way to recover your seed phrase!
 
