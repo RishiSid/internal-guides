@@ -10,6 +10,13 @@ Once you've isntalled the extension, pin it on Chrome for easy access. Connect y
 ![account1](./screenshots/account1.png)
 - In case you do not have an existing Keplr account you can create a new account
 
+**For Ledgers**
+Click on `Import Ledger` and approve on your ledger device
+
+**For Paper Wallets**
+In case you do not have a ledger follow the steps below
+
+- Click on `Create new account`
 > **Note:** For paper wallets, you will be shown 12 words as your mnemonic seed. Select24 words option for a more secure mnemonic. Back it up securely (read the warning below). 
 
 - Enter an account name and a passphrase to unlock your wallet. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic.
